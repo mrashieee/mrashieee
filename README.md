@@ -32,5 +32,5 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 
 ## Stats Overview
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrashieee&theme=2077)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrashieee&theme=transparent)
 
