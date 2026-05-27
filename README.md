@@ -30,7 +30,7 @@ I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrashieee&theme=gruvbox) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrashieee&theme=gruvbox) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrashieee&theme=gruvbox&utcOffset=5.5)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mrashieee&theme=gruvbox&no-frame=true&no-bg=true)
+![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=mrashieee&theme=gruvbox&no-frame=true&no-bg=true)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
 
