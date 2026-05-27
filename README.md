@@ -32,5 +32,5 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 
 ## Stats Overview
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrashieee&theme=gruvbox) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrashieee&theme=gruvbox)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrashieee&theme=transparent) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrashieee&theme=transparent)
 
