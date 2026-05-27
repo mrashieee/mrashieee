@@ -30,7 +30,7 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 - [**rashix**](https://github.com/mrashieee/rashix) — my Nix configuration files
 - [**LEARNING-ESP32**](https://github.com/mrashieee/LEARNING-ESP32) — documenting my journey learning ESP32
 
-## Contribution Graph
+## Stats Overview
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrashieee&bg_color=00000000&color=d29922&line=3776AB&point=d29922&area=00000000&grid=6e7681&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrashieee&theme=github_dark)
 
