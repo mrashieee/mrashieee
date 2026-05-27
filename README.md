@@ -36,7 +36,6 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 
 <div align="center">
 
-![mrashieee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrashieee&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrashieee&layout=compact&theme=radical&hide_border=true)
+![GitHub Followers](https://www.shieldcn.dev/github/followers/mrashieee.svg?size=lg) ![GitHub Stars](https://www.shieldcn.dev/github/user-stars/mrashieee.svg?size=lg) ![Public Repos](https://www.shieldcn.dev/badge/Repos-5-2563eb.svg?logo=github&variant=secondary&size=lg)
 
 </div>
