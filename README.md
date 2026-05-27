@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Muhammad Rashid K 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Rashid+K;BCA+Student+%7C+AI+Explorer;Linux+%26+Nix+Enthusiast)](https://git.io/typing-svg)
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40mrashieee-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/mrashieee)
 
@@ -14,11 +14,13 @@
 
 I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India.
 
-My coding journey started when my dad gave me his old laptop with Ubuntu — I mostly learnt to survive in the terminal, scratched my way through, and got hooked. Now I'm exploring Computer Vision(python), Linux, Nix, and diving into embedded systems.
+My coding journey started when my dad gave me his old laptop with Ubuntu — I started building games in Scratch, and the creativity and freedom of creating something from nothing hooked me for good. Now I'm exploring Computer Vision(python), Linux, Nix, and diving into embedded systems.
 
 -   Currently learning: Computer Vision(python), Linux internals, Nix
 -   Next up: embedded systems
 -   Outside code: I love gaming
+
+**Setup:** ASUS TUF Gaming F15 · i7-12700H · RTX 4060 · Arch Linux (NixOS > Arch) · Emacs
 
 ## Skills & Technologies
 
@@ -33,4 +35,6 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 ## Stats Overview
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrashieee&theme=transparent) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrashieee&theme=transparent)
+
+![Quote](https://github-readme-quotes.vercel.app/api?theme=dark&layout=default)
 
