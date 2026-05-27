@@ -24,6 +24,10 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 
 ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm) ![Linux](https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&variant=branded&size=sm) ![Nix](https://www.shieldcn.dev/badge/-Nix-5277C3.svg?logo=nixos&variant=branded&size=sm)
 
+## Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrashieee&theme=radical&hide_border=true&bg_color=141321)
+
 ## Featured Projects
 
 [![⭑ todo-py <(") ](https://www.shieldcn.dev/github/stars/mrashieee/todo-py.svg?variant=secondary&size=sm)](https://github.com/mrashieee/todo-py) [![⭑ rashix <(") ](https://www.shieldcn.dev/github/stars/mrashieee/rashix.svg?variant=secondary&size=sm)](https://github.com/mrashieee/rashix) [![⭑ LEARNING-ESP32 <(") ](https://www.shieldcn.dev/github/stars/mrashieee/LEARNING-ESP32.svg?variant=secondary&size=sm)](https://github.com/mrashieee/LEARNING-ESP32)
@@ -32,10 +36,4 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 - **rashix** — my Nix configuration files
 - **LEARNING-ESP32** — documenting my journey learning ESP32
 
-## GitHub Stats
 
-<div align="center">
-
-![GitHub Followers](https://www.shieldcn.dev/github/followers/mrashieee.svg?size=lg) ![GitHub Stars](https://www.shieldcn.dev/github/user-stars/mrashieee.svg?size=lg) ![Public Repos](https://www.shieldcn.dev/badge/Repos-5-2563eb.svg?logo=github&variant=secondary&size=lg)
-
-</div>
