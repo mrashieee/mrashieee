@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Rashid+K;BCA+Student+%7C+AI+Explorer;Linux+%26+Nix+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Rashid+K;BCA+Student+%7C+AI+Enthusiast;Linux+%26+Nix+Enthusiast)](https://git.io/typing-svg)
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40mrashieee-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/mrashieee)
 
@@ -36,5 +36,5 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I s
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrashieee&theme=transparent) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrashieee&theme=transparent)
 
-![Quote](https://github-readme-quotes.vercel.app/api?theme=dark&layout=default)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
