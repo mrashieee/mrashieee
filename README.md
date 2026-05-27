@@ -6,12 +6,32 @@
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/mrashieee.svg?variant=secondary&size=sm)](https://github.com/mrashieee?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/mrashieee.svg?variant=secondary&size=sm)](https://github.com/mrashieee?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-5-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/mrashieee?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-India-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
+[![Instagram](https://www.shieldcn.dev/badge/-%40mrashieee-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://www.instagram.com/mrashieee) [![LinkedIn](https://www.shieldcn.dev/badge/-in%2Fmuhammad--rashid--k--185288380-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/muhammad-rashid-k-185288380) [![YouTube](https://www.shieldcn.dev/badge/-%40rashocean-FF0000.svg?logo=youtube&variant=branded&size=sm)](https://youtube.com/@rashocean)
+
 </div>
 
-## 🛠️ Skills & Technologies
+## About Me
 
-![Nix](https://www.shieldcn.dev/badge/-Nix-5277C3.svg?logo=nixos&variant=branded&size=sm) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
+I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India.
 
-## 📦 Top Repositories
+My coding journey started when my dad gave me his old laptop with Ubuntu — I mostly learnt to survive in the terminal, scratched my way through, and got hooked. Now I'm exploring computer vision, Linux, Nix, and diving into embedded systems.
 
-[![⭑ todo-py <(") ](https://www.shieldcn.dev/github/stars/mrashieee/todo-py.svg?variant=secondary&size=sm)](https://github.com/mrashieee/rasharchy-cs50p-finalproject) [![⭑ rashix <(") ](https://www.shieldcn.dev/github/stars/mrashieee/rashix.svg?variant=secondary&size=sm)](https://github.com/mrashieee/rashix) [![⭑ LEARNING-ESP32 <(") ](https://www.shieldcn.dev/github/stars/mrashieee/LEARNING-ESP32.svg?variant=secondary&size=sm)](https://github.com/mrashieee/LEARNING-ESP32)
+-   Currently learning: computer vision, Linux internals, Nix
+-   Next up: embedded systems
+-   Outside code: I love gaming
+
+## Skills & Technologies
+
+![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm) ![Linux](https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&variant=branded&size=sm) ![Nix](https://www.shieldcn.dev/badge/-Nix-5277C3.svg?logo=nixos&variant=branded&size=sm)
+
+## Featured Projects
+
+[![⭑ todo-py <(") ](https://www.shieldcn.dev/github/stars/mrashieee/todo-py.svg?variant=secondary&size=sm)](https://github.com/mrashieee/todo-py) [![⭑ rashix <(") ](https://www.shieldcn.dev/github/stars/mrashieee/rashix.svg?variant=secondary&size=sm)](https://github.com/mrashieee/rashix) [![⭑ LEARNING-ESP32 <(") ](https://www.shieldcn.dev/github/stars/mrashieee/LEARNING-ESP32.svg?variant=secondary&size=sm)](https://github.com/mrashieee/LEARNING-ESP32)
+
+- **todo-py** — CLI task & habit tracker with XP and levels (my CS50P final project)
+- **rashix** — my Nix configuration files
+- **LEARNING-ESP32** — documenting my journey learning ESP32
+
+## GitHub Stats
+
+![mrashieee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrashieee&show_icons=true&theme=radical&hide_border=true)
