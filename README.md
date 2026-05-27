@@ -12,13 +12,7 @@
 
 ## About Me
 
-I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India.
-
-My coding journey started when my dad gave me his old laptop with Ubuntu — I started building games in Scratch, and the creativity and freedom of creating something from nothing hooked me for good. Now I'm exploring Computer Vision(python), Linux, Nix, and diving into embedded systems.
-
--   Currently learning: Computer Vision(python), Linux internals, Nix
--   Next up: embedded systems
--   Outside code: I love gaming
+I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India. My coding journey started when my dad gave me his old laptop with Ubuntu — I started building games in Scratch, and the creativity and freedom of creating something from nothing hooked me for good. These days I'm diving into Computer Vision (Python), Linux internals, and Nix, with embedded systems (ESP32) next up. Outside code, I love gaming.
 
 **Setup:** ASUS TUF Gaming F15 · i7-12700H · RTX 4060 · Arch Linux (NixOS > Arch) · Emacs
 
@@ -36,5 +30,5 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I s
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrashieee&theme=gruvbox) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrashieee&theme=gruvbox) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrashieee&theme=gruvbox&utcOffset=5.5)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
 
