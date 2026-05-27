@@ -6,7 +6,7 @@
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/mrashieee.svg?variant=secondary&size=sm)](https://github.com/mrashieee?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/mrashieee.svg?variant=secondary&size=sm)](https://github.com/mrashieee?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-5-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/mrashieee?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-India-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
-[![Instagram](https://www.shieldcn.dev/badge/-%40mrashieee-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://www.instagram.com/mrashieee) [![LinkedIn](https://www.shieldcn.dev/badge/-in%2Fmuhammad--rashid--k--185288380-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/muhammad-rashid-k-185288380) [![YouTube](https://www.shieldcn.dev/badge/-%40rashocean-FF0000.svg?logo=youtube&variant=branded&size=sm)](https://youtube.com/@rashocean)
+[![Instagram](https://www.shieldcn.dev/badge/Instagram-%40mrashieee-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://www.instagram.com/mrashieee) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-Muhammad%20Rashid%20K-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/muhammad-rashid-k-185288380) [![YouTube](https://www.shieldcn.dev/badge/YouTube-%40rashocean-FF0000.svg?logo=youtube&variant=branded&size=sm)](https://youtube.com/@rashocean)
 
 </div>
 
@@ -34,4 +34,9 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 
 ## GitHub Stats
 
-![mrashieee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrashieee&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+
+![mrashieee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrashieee&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrashieee&layout=compact&theme=radical&hide_border=true)
+
+</div>
