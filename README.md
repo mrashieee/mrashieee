@@ -34,5 +34,5 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 
 ## Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrashieee&bg_color=00000000&color=0969da&line=8250df&point=0969da&area=00000000&grid=afb8c1&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrashieee&bg_color=00000000&color=d29922&line=3776AB&point=d29922&area=00000000&grid=6e7681&hide_border=true)
 
