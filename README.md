@@ -14,9 +14,9 @@
 
 I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India.
 
-My coding journey started when my dad gave me his old laptop with Ubuntu — I mostly learnt to survive in the terminal, scratched my way through, and got hooked. Now I'm exploring computer vision, Linux, Nix, and diving into embedded systems.
+My coding journey started when my dad gave me his old laptop with Ubuntu — I mostly learnt to survive in the terminal, scratched my way through, and got hooked. Now I'm exploring Computer Vision(python), Linux, Nix, and diving into embedded systems.
 
--   Currently learning: computer vision, Linux internals, Nix
+-   Currently learning: Computer Vision(python), Linux internals, Nix
 -   Next up: embedded systems
 -   Outside code: I love gaming
 
@@ -26,11 +26,9 @@ My coding journey started when my dad gave me his old laptop with Ubuntu — I m
 
 ## Featured Projects
 
-[![⭑ todo-py <(") ](https://www.shieldcn.dev/github/stars/mrashieee/todo-py.svg?variant=secondary&size=sm)](https://github.com/mrashieee/todo-py) [![⭑ rashix <(") ](https://www.shieldcn.dev/github/stars/mrashieee/rashix.svg?variant=secondary&size=sm)](https://github.com/mrashieee/rashix) [![⭑ LEARNING-ESP32 <(") ](https://www.shieldcn.dev/github/stars/mrashieee/LEARNING-ESP32.svg?variant=secondary&size=sm)](https://github.com/mrashieee/LEARNING-ESP32)
-
-- **todo-py** — CLI task & habit tracker with XP and levels (my CS50P final project)
-- **rashix** — my Nix configuration files
-- **LEARNING-ESP32** — documenting my journey learning ESP32
+- [**todo-py**](https://github.com/mrashieee/todo-py) — CLI task & habit tracker with XP and levels (my CS50P final project)
+- [**rashix**](https://github.com/mrashieee/rashix) — my Nix configuration files
+- [**LEARNING-ESP32**](https://github.com/mrashieee/LEARNING-ESP32) — documenting my journey learning ESP32
 
 ## Contribution Graph
 
