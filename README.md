@@ -14,7 +14,7 @@
 
 I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India. My coding journey started when my dad gave me his old laptop with Ubuntu — I started building games in Scratch, and the creativity and freedom of creating something from nothing hooked me for good. These days I'm diving into Computer Vision (Python), Linux internals, and Nix, with embedded systems (ESP32) next up. Outside code, I love gaming.
 
-**Setup:** ASUS TUF Gaming F15 · i7-12700H · RTX 4060 · Arch Linux (NixOS > Arch) · Emacs
+**Setup:** ASUS TUF Gaming F15 · i7-12700H · RTX 4060 · Arch Linux (Omarchy) · Emacs
 
 ## Skills & Technologies
 
