@@ -18,7 +18,7 @@ I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India
 
 ## Skills & Technologies
 
-![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm) ![Linux](https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&variant=branded&size=sm) ![Nix](https://www.shieldcn.dev/badge/-Nix-5277C3.svg?logo=nixos&variant=branded&size=sm)
+![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm) ![Linux](https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&variant=branded&size=sm) ![Arch](https://www.shieldcn.dev/badge/-Arch-1793D1.svg?logo=archlinux&variant=branded&size=sm)
 
 ## Featured Projects
 
