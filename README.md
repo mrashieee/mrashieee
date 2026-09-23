@@ -14,11 +14,11 @@
 
 I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India. My coding journey started when my dad gave me his old laptop with Ubuntu — I started building games in Scratch, and the creativity and freedom of creating something from nothing hooked me for good. These days I'm diving into Computer Vision (Python), Linux internals, and Nix, with embedded systems (ESP32) next up. Outside code, I love gaming.
 
-**Setup:** ASUS TUF Gaming F15 · i7-12700H · RTX 4060 · Arch Linux (Omarchy) · Emacs
+**Setup:** ASUS TUF Gaming F15 · i7-12700H · RTX 4060 · Fedora Linux · Emacs
 
 ## Skills & Technologies
 
-![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm) ![Linux](https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&variant=branded&size=sm) ![Arch](https://www.shieldcn.dev/badge/-Arch-1793D1.svg?logo=archlinux&variant=branded&size=sm)
+![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=sm) ![Linux](https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&variant=branded&size=sm) ![Fedora](https://www.shieldcn.dev/badge/-Fedora-51A2DA.svg?logo=fedora&variant=branded&size=sm)
 
 ## Featured Projects
 
