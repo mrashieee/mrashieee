@@ -24,7 +24,7 @@ I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India
 
 - [**todo-py**](https://github.com/mrashieee/todo-py) — CLI task & habit tracker with XP and levels (my CS50P final project)
 - [**rashix**](https://github.com/mrashieee/rashix) — my Nix configuration files
-- [**LEARNING-ESP32**](https://github.com/mrashieee/LEARNING-ESP32) — documenting my journey learning ESP32
+- [**Studying Cisco Networking**](https://github.com/mrashieee/studying-cisco-networking) — documenting my journey learning networking
 
 ## Stats Overview
 
