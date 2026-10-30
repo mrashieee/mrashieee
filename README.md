@@ -23,7 +23,7 @@ I'm a first-year BCA student specialised in AI, based in Palakkad, Kerala, India
 ## Featured Projects
 
 - [**todo-py**](https://github.com/mrashieee/todo-py) — CLI task & habit tracker with XP and levels (my CS50P final project)
-- [**rashix**](https://github.com/mrashieee/rashix) — my Nix configuration files
+- [**room-check**](https://github.com/mrashieee/room-check) — a self hosting service I made for presenters to have a more interacting sessions.
 - [**Studying Cisco Networking**](https://github.com/mrashieee/studying-cisco-networking) — documenting my journey learning networking
 
 ## Stats Overview
